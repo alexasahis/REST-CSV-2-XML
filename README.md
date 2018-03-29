@@ -1,4 +1,4 @@
-# REST-CSV-tableau-automation
+# REST-CSV-2-XML-automation
 This is a simple Python CSV to XML, JSON & HTML converter.
 
 If you are using a MAC you can simply convert a CSV to XML, JSON & HTML from terminal. MACs have already python installed.
